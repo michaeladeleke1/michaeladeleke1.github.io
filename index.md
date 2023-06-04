@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2021 DREU Project Site
+title: Summer 2023 DREU Project Site
 ---
 
 * TOC
@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Currently, I am a Junior at Morgan State University, located in Baltimore, Maryland. I am pursuing a Bachelor’s degree in Computer Science. My expected graduation date is in 2025.
 
 ## About My Mentor
 

@@ -12,7 +12,7 @@ Currently, I am a Junior at Morgan State University, located in Baltimore, Maryl
 
 ## About My Mentor
 
-Mentor info goes here.
+My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who's work focuses on Brain-Computer 
 
 ## About My Project
 

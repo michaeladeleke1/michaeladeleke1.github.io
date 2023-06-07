@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2023 DREU Project Site
+title: Michael Adeleke's Summer 2023 DREU Project Site
 ---
 
 * TOC

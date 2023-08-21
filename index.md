@@ -32,7 +32,7 @@ Approach: During this project, I will assist a team in designing a system that a
 
 Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/DREUPaper(1).pdf)
 
 ## My Blog
 
